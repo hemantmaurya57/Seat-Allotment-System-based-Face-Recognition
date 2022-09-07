@@ -28,26 +28,24 @@
 - You can store data in database (install wampserver),change the DB name according to your in `AMS_Run.py`.
 - `Manually Fill Attendace` Button in UI is for fill a manually attendance (without facce recognition),it's also create a `.csv` and store in a database.
 
-### Screenshots
-
 ### Basic UI
-<img src="#">
+<img src="https://github.com/erahulkumar/Seat-Allotment-System-based-Face-Recognition/blob/main/Att.png">
 
-### When it's Recognise me
-<img src="#">
+### Next Step
+<img src="https://github.com/erahulkumar/Seat-Allotment-System-based-Face-Recognition/blob/main/Screenshot%20(10).png">
 
-### When it's fill a attendace
-<img src="#">
+### Next Step 
+<img src="https://github.com/erahulkumar/Seat-Allotment-System-based-Face-Recognition/blob/main/Screenshot%20(11).png">
 
 ### Manually attendance filling UI
-<img src="#">
+<img src="https://github.com/erahulkumar/Seat-Allotment-System-based-Face-Recognition/blob/main/Screenshot%20(12).png">
 
 
 ### How it works? See:)
 
-<img src="#">
-
 ### Video demo
+
+<a href="https://youtu.be/9kz-GF7XoEs">Project Video link</a>
 
 
 
