@@ -1,9 +1,9 @@
-##  Attendance Management system using Face👦🏻👧 Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Attendace_management_system/blob/master/LICENSE)
+##  Attendance Management system using Face👦🏻👧 Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)]  (https://github.com/hemantmaurya57/Seat_management_system/blob/master/LICENSE)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.10.6](https://img.shields.io/badge/python-3.10.6-blue.svg)](https://www.python.org/ftp/python/3.10.6/)
 ### Sourcerer
-<a href="https://github.com/erahulkumar"><img src="https://avatars.githubusercontent.com/u/91170678?s=96&v=4" style="border-radius: 50%;" height="50px" width="50px" alt="erahulkumar"/></a>
+<a href="https://github.com/hemantmaurya57"><img src="  https://github.com/settings/profile"/></a>
 
 ### Code Requirements
 * Opencv(`pip install opencv-python`)
