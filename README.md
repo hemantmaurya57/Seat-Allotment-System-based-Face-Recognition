@@ -3,7 +3,8 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.10.6](https://img.shields.io/badge/python-3.10.6-blue.svg)](https://www.python.org/ftp/python/3.10.6/)
 ### Sourcerer
-  *HEMANT MAURYA
+  *HEMANT MAURYA and
+  *RAHUL KUMAR https://github.com/erahulkumar 
 
 ### Code Requirements
 * Opencv(`pip install opencv-python`)
